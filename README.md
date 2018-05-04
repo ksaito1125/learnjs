@@ -1,3 +1,26 @@
+## server
+
+ポート8080でローカルのwebサーバを起動します。
+
+```
+make server
+```
+
+## deploy
+
+S3にアプリケーションをデプロイします。
+
+```
+make deploy
+```
+
+## clean up
+
+デプロイしたアプリケーションをクリーンアップします。
+
+```
+make clean
+```
 
 ## Change Log
 
